@@ -1,3 +1,13 @@
+#-----------------------------------------------------------------------------------------------------------------------------------
+# Fonction : Code qui permet de recuperer les fichiers xls ou xlsx de repartitions ou se trouvent les droits d'auteur de l'artiste  
+#            utilise un fichier de configuration Json ou se trouve tous les parametres d'initialisation
+# Entree   : username et password d'un compte SACEM
+# Sortie   : les fichiers xls ou xlsx de repartitions
+# Auteur   : Theo Breton
+# date     : 4/29/2021
+# Version  : V12
+#-----------------------------------------------------------------------------------------------------------------------------------
+
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 #------------------------------------------------------------------
