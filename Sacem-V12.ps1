@@ -4,7 +4,7 @@
 # Entree   : username et password d'un compte SACEM
 # Sortie   : les fichiers xls ou xlsx de repartitions
 # Auteur   : Theo Breton
-# date     : 4/29/2021
+# date     : 5/13/2021
 # Version  : V12
 #-----------------------------------------------------------------------------------------------------------------------------------
 
